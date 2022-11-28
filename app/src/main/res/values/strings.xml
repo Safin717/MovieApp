@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppMovie</string>
+
+    <string name="movie_name">Movie Name</string>
+    <string name="rate">Rate</string>
+    <string name="crew">Crew</string>
+    <string name="date">Date</string>
+
 </resources>
