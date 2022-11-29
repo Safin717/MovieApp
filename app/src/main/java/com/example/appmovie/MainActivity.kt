@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity() {
                     response: Response<MovieList>
                 ) {
                     pbMovie.visibility = View.GONE
-                    Log.d("Movies:", "${response.body()}")
                     when (response.code()) {
                         in 200..299 -> {
                             response.body().let { itBody ->

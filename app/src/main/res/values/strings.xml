@@ -1,9 +1,21 @@
 <resources>
-    <string name="app_name">AppMovie</string>
+    <string name="app_name">AppMovies</string>
 
-    <string name="movie_name">Movie Name</string>
     <string name="rate">Rate</string>
     <string name="crew">Crew</string>
-    <string name="date">Date</string>
+    <string name="date">Date:</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="tagline">MovieTags</string>
+    <string name="movie_info">Movie Info: </string>
+    <string name="released_date">Date:</string>
+    <string name="rating">Rate:</string>
+    <string name="runtime">Run time: </string>
+    <string name="hours">Hours</string>
+    <string name="revenue">Revenue:</string>
+    <string name="revenue_value">revenue_value</string>
+    <string name="description">Description:</string>
+    <string name="description_value">description_value</string>
+    <string name="budget">Budget:</string>
+    <string name="budget_value">budget_value</string>
 
 </resources>

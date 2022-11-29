@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
 import coil.size.Scale
+import com.example.appmovie.DetailMovieActivity
 import com.example.appmovie.R
 import com.example.appmovie.databinding.ItemRowBinding
 import com.example.appmovie.response.MovieList
@@ -50,6 +51,12 @@ class MovieAdapter :  RecyclerView.Adapter<MovieAdapter.ViewHolder>(){
                 }
                 tvCrew.text = item.rankUpDown
                 tvDate.text = item.year
+
+                root.setOnClickListener {
+                   val intent = Intent(context, DetailMovieActivity::class.java)
+                  intent.putExtra("id", item.id)
+                 context.startActivity(intent)
+                }
             }
         }
     }
