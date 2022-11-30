@@ -4,4 +4,7 @@
 
 ### Technologies and depe used in the application: Retrofit, OkHttp3, Gson, Coil library to load images. Screenshots of the application:
 ![Screen1](https://github.com/Safin717/MovieApp/blob/main/1.png)
+![Screen2](https://github.com/Safin717/MovieApp/blob/main/2.png)
+![Screen3](https://github.com/Safin717/MovieApp/blob/main/3.png)
+![Screen4](https://github.com/Safin717/MovieApp/blob/main/4.png)
 
