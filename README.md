@@ -7,6 +7,9 @@ Retrofit
 OkHttp3
 Gson
 Coil library to load images. 
+
+
+
 Screenshots of the application:
 <img src="https://github.com/Safin717/MovieApp/blob/main/1.png" width="400">
 <img src="https://github.com/Safin717/MovieApp/blob/main/2.png" width="400">
