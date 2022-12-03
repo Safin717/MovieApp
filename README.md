@@ -6,7 +6,10 @@
 ### Retrofit 
 ### OkHttp3
 ### Gson
-### Coil library to load images. 
+### Coil library to load images.
+
+## You can download this app from the Play Market Store by following this link:
+## https://play.google.com/store/apps/details?id=com.bysafmobile.appmovie2
 
 ### Screenshots of the application:
 <img src="https://github.com/Safin717/MovieApp/blob/main/1.png" width="400">
